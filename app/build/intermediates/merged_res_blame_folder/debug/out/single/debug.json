@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_telegram.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/telegram.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_multiple_languages.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/multiple_languages.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_intermediate_dev.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/intermediate_dev.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_ic_reels.xml.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/ic_reels.xml"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_discord.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/discord.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_learn_coding_fast.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/learn_coding_fast.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_profile.png.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/profile.png"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_bad_habits.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/bad_habits.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_youtube.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/youtube.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_ic_dotmenu.xml.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/ic_dotmenu.xml"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_ic_igtv.xml.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/ic_igtv.xml"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_qa.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/qa.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_master_logical_thinking.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/master_logical_thinking.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_ic_grid.xml.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/ic_grid.xml"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_ic_bell.xml.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/ic_bell.xml"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_kmm.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/kmm.jpg"
+    },
+    {
+        "merged": "/Users/shiv/AndroidProjects/InstagramUI/app/build/intermediates/merged_res/debug/drawable-v24_philipp.jpg.flat",
+        "source": "/Users/shiv/AndroidProjects/InstagramUI/app/src/main/res/drawable-v24/philipp.jpg"
+    }
+]
